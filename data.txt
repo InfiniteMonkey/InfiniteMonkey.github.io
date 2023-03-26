@@ -1,1 +1,1 @@
-4;;;NAMMA METRO Stations Update!;;;Bengaluru new metro stations added! Added 12 New Stations from Krishnarajapuram to Whitefield with updated routes and timings. Please update latest version to stay up-to-date.
+5;;;NAMMA METRO Stations Update!;;;12 New Stations from Krishnarajapuram to Whitefield with updated routes and timings! Please update latest version to stay up-to-date. Please clear app storage if app crashing in some devices, we are looking into the issue.
